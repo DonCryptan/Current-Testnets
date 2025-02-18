@@ -6,4 +6,5 @@ This file will contain a mix of testnets for research.
 - [X Sahara](https://x.com/SaharaLabsAI)
 - [X Soneium](https://x.com/soneium)
 - [X Sonic](https://x.com/SonicLabs)
+-   [Estfor](https://estfor.com/)
 - [X Eclipse](https://x.com/EclipseFND)
