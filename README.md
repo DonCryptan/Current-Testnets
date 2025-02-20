@@ -8,3 +8,4 @@ This file will contain a mix of testnets for research.
 - [X Sonic](https://x.com/SonicLabs)
     - [Estfor](https://estfor.com/)
 - [X Eclipse](https://x.com/EclipseFND)
+- [X Somnia](https://quest.somnia.network/)
