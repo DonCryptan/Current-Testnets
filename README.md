@@ -9,3 +9,4 @@ This file will contain a mix of testnets for research.
     - [Estfor](https://estfor.com/)
 - [X Eclipse](https://x.com/EclipseFND)
 - [X Somnia](https://quest.somnia.network/)
+- [X Singularity Finance](https://singularityfinance.ai/)
