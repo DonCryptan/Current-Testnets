@@ -10,3 +10,4 @@ This file will contain a mix of testnets for research.
 - [X Eclipse](https://x.com/EclipseFND)
 - [X Somnia](https://quest.somnia.network/)
 - [X Singularity Finance](https://singularityfinance.ai/)
+- [X Humanity Protocol](https://testnet.humanity.org/)
