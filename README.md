@@ -12,3 +12,4 @@ This file will contain a mix of testnets for research.
 - [X Singularity Finance](https://singularityfinance.ai/)
 - [X Humanity Protocol](https://testnet.humanity.org/)
 - [X Kite AI](https://testnet.gokite.ai/)
+- [X Abstract](https://www.abs.xyz/)
