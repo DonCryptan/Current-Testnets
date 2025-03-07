@@ -4,3 +4,4 @@
 ## OpenGradient
 ## Story Protocol
 ## Linera
+## Lit Protocol
