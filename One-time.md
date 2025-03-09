@@ -6,3 +6,4 @@
 ## Linera
 ## Lit Protocol
 ## Unichain
+## Legend
