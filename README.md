@@ -11,6 +11,6 @@ This file will contain a mix of testnets for research.
 - [X Somnia](https://quest.somnia.network/)
 - [X Singularity Finance](https://singularityfinance.ai/)
 - [X Humanity Protocol](https://testnet.humanity.org/)
-- [X Kite AI](https://testnet.gokite.ai/)
+- [X Kite AI]()
 - [X Abstract]()
 - [X Towns]()
