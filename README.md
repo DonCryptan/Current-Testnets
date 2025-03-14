@@ -14,3 +14,4 @@ This file will contain a mix of testnets for research.
 - [X Kite AI]()
 - [X Abstract]()
 - [X Towns]()
+- [X Linera]()
