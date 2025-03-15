@@ -15,3 +15,4 @@ This file will contain a mix of testnets for research.
 - [X Abstract]()
 - [X Towns]()
 - [X Linera]()
+- [X Malda]()
