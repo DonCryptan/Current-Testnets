@@ -17,3 +17,4 @@ This file will contain a mix of testnets for research.
 - [X Linera]()
 - [X Malda]()
 - [X OG Labs]()
+- [X Union]()
