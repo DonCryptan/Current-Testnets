@@ -19,3 +19,4 @@ This file will contain a mix of testnets for research.
 - [X OG Labs]()
 - [X Union]()
 - [X Cytonic]()
+- [X Avalon]()
