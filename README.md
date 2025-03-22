@@ -20,3 +20,4 @@ This file will contain a mix of testnets for research.
 - [X Union]()
 - [X Cytonic]()
 - [X Avalon]()
+- [X Initia]()
