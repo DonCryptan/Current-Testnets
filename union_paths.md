@@ -12,7 +12,7 @@
 ### Union Testnet
 - [Union Testnet 9 → Sepolia](https://app.union.build/transfer?source=union-testnet-9&destination=11155111)
 - [Union Testnet 9 → Babylon Testnet](https://app.union.build/transfer?source=union-testnet-9&destination=bbn-test-5) w
-- [Union Testnet 9 → Stride Testnet](https://app.union.build/transfer?source=union-testnet-9&destination=stride-internal-1)
+- [Union Testnet 9 → Stride Testnet](https://app.union.build/transfer?source=union-testnet-9&destination=stride-internal-1) w
 - [Union Testnet 9 → Stargaze Testnet](https://app.union.build/transfer?source=union-testnet-9&destination=elgafar-1)
 - [Union Testnet 9 → Holesky](https://app.union.build/transfer?source=union-testnet-9&destination=17000)
 
