@@ -13,7 +13,7 @@ This file will contain a mix of testnets for research.
 - [X Humanity Protocol](https://testnet.humanity.org/)
 - [X Kite AI](https://testnet.gokite.ai/quests)
 - [X Abstract](https://www.abs.xyz/)
-- [X Towns]()
+- [X Towns](https://app.towns.com/)
 - [X Linera]()
 - [X Malda]()
 - [X OG Labs]()
