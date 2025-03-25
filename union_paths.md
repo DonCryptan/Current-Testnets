@@ -18,7 +18,7 @@
 
 ### Babylon Testnet
 - [Babylon Testnet → Sepolia](https://app.union.build/transfer?source=bbn-test-5&destination=11155111)
-- [Babylon Testnet → Union Testnet 9](https://app.union.build/transfer?source=bbn-test-5&destination=union-testnet-9)
+- [Babylon Testnet → Union Testnet 9](https://app.union.build/transfer?source=bbn-test-5&destination=union-testnet-9) w
 - [Babylon Testnet → Stride Testnet](https://app.union.build/transfer?source=bbn-test-5&destination=stride-internal-1)
 - [Babylon Testnet → Stargaze Testnet](https://app.union.build/transfer?source=bbn-test-5&destination=elgafar-1)
 - [Babylon Testnet → Holesky](https://app.union.build/transfer?source=bbn-test-5&destination=17000)
