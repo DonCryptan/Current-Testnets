@@ -25,7 +25,7 @@
 
 ### Sepolia
 - [Sepolia → Babylon Testnet](https://app.union.build/transfer?source=11155111&destination=bbn-test-5) w
-- [Sepolia → Union Testnet 9](https://app.union.build/transfer?source=11155111&destination=union-testnet-9)
+- [Sepolia → Union Testnet 9](https://app.union.build/transfer?source=11155111&destination=union-testnet-9) w
 - [Sepolia → Stride Testnet](https://app.union.build/transfer?source=11155111&destination=stride-internal-1)
 - [Sepolia → Stargaze Testnet](https://app.union.build/transfer?source=11155111&destination=elgafar-1)
 - [Sepolia → Holesky](https://app.union.build/transfer?source=11155111&destination=17000)
