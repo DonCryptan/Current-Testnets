@@ -44,7 +44,7 @@
 ## Stargaze Testnet (elgafar-1)
 
 - [Transfer to Sepolia](https://app.union.build/transfer?source=elgafar-1&destination=11155111)  
-- [Transfer to Babylon Testnet](https://app.union.build/transfer?source=elgafar-1&destination=bbn-test-5)  
+- [Transfer to Babylon Testnet](https://app.union.build/transfer?source=elgafar-1&destination=bbn-test-5)  w
 - [Transfer to Union Testnet 9](https://app.union.build/transfer?source=elgafar-1&destination=union-testnet-9)  
 - [Transfer to Stride Testnet](https://app.union.build/transfer?source=elgafar-1&destination=stride-internal-1)  
 - [Transfer to Holesky](https://app.union.build/transfer?source=elgafar-1&destination=17000)  
