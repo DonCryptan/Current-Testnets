@@ -21,3 +21,4 @@ This file will contain a mix of testnets for research.
 - [X Cytonic]()
 - [X Avalon]()
 - [X Initia]()
+- [X MegaETH]()
