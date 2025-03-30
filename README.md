@@ -22,3 +22,4 @@ This file will contain a mix of testnets for research.
 - [X Avalon]()
 - [X Initia]()
 - [X MegaETH]()
+- [X YALA]()
