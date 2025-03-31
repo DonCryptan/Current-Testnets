@@ -23,3 +23,4 @@ This file will contain a mix of testnets for research.
 - [X Initia]()
 - [X MegaETH]()
 - [X YALA]()
+- [X Beamable]()
