@@ -37,7 +37,7 @@
 
 - [Transfer to Sepolia](https://app.union.build/transfer?source=stride-internal-1&destination=11155111)  
 - [Transfer to Babylon Testnet](https://app.union.build/transfer?source=stride-internal-1&destination=bbn-test-5)  
-- [Transfer to Union Testnet 9](https://app.union.build/transfer?source=stride-internal-1&destination=union-testnet-9)  
+- [Transfer to Union Testnet 9](https://app.union.build/transfer?source=stride-internal-1&destination=union-testnet-9) w 
 - [Transfer to Stargaze Testnet](https://app.union.build/transfer?source=stride-internal-1&destination=elgafar-1)  
 - [Transfer to Holesky](https://app.union.build/transfer?source=stride-internal-1&destination=17000)  
 
