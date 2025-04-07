@@ -18,7 +18,7 @@ This file will contain a mix of testnets for research.
 - [X Malda]()
 - [X OG Labs]()
 - [X Union](https://dashboard.union.build/)
-- [X Cytonic]()
+- [X Cytonic](https://app.cytonic.com/)
 - [X Avalon]()
 - [X Initia]()
 - [X MegaETH]()
