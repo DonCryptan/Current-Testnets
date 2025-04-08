@@ -19,7 +19,7 @@ This file will contain a mix of testnets for research.
 - [X OG Labs]()
 - [X Union](https://dashboard.union.build/)
 - [X Cytonic](https://app.cytonic.com/)
-- [X Avalon]()
+- [X Avalon](https://quests.avalon.online/login)
 - [X Initia]()
 - [X MegaETH]()
 - [X YALA]()
