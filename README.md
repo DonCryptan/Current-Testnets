@@ -20,7 +20,7 @@ This file will contain a mix of testnets for research.
 - [X Union](https://dashboard.union.build/)
 - [X Cytonic](https://app.cytonic.com/)
 - [X Avalon](https://quests.avalon.online/login)
-- [X Initia]()
+- [X Initia](https://app.testnet.initia.xyz/)
 - [X MegaETH]()
 - [X YALA]()
 - [X Beamable](https://hub.beamable.network/)
