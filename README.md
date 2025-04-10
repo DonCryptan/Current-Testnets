@@ -21,7 +21,7 @@ This file will contain a mix of testnets for research.
 - [X Cytonic](https://app.cytonic.com/)
 - [X Avalon](https://quests.avalon.online/login)
 - [X Initia](https://app.testnet.initia.xyz/)
-- [X MegaETH]()
+- [X MegaETH](https://testnet.megaeth.com/)
 - [X YALA]()
 - [X Beamable](https://hub.beamable.network/)
 - [X Recall]()
