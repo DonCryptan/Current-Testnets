@@ -22,7 +22,7 @@ This file will contain a mix of testnets for research.
 - [X Avalon](https://quests.avalon.online/login)
 - [X Initia](https://app.testnet.initia.xyz/)
 - [X MegaETH](https://testnet.megaeth.com/)
-- [X YALA]()
+- [X YALA](https://app-testnet-v3.yala.org/)
 - [X Beamable](https://hub.beamable.network/)
 - [X Recall]()
 - [X DoubleZero]()
