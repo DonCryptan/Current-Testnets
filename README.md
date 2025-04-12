@@ -24,5 +24,5 @@ This file will contain a mix of testnets for research.
 - [X MegaETH](https://testnet.megaeth.com/)
 - [X YALA](https://app-testnet-v3.yala.org/)
 - [X Beamable](https://hub.beamable.network/)
-- [X Recall]()
+- [X Recall](https://boost.absinthe.network/recall/)
 - [X DoubleZero]()
