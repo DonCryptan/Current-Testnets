@@ -16,7 +16,7 @@ This file will contain a mix of testnets for research.
 - [X Towns](https://app.towns.com/)
 - [X Linera]()
 - [X Malda]()
-- [X OG Labs](hgjh)
+- [X OG Labs]()
 - [X Union](https://dashboard.union.build/)
 - [X Cytonic](https://app.cytonic.com/)
 - [X Avalon](https://quests.avalon.online/login)
@@ -26,3 +26,4 @@ This file will contain a mix of testnets for research.
 - [X Beamable](https://hub.beamable.network/)
 - [X Recall](https://boost.absinthe.network/recall/)
 - [X DoubleZero]()
+- [X Seal]()
