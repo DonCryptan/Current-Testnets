@@ -26,4 +26,4 @@ This file will contain a mix of testnets for research.
 - [X Beamable](https://hub.beamable.network/)
 - [X Recall](https://boost.absinthe.network/recall/)
 - [X DoubleZero]()
-- [X Seal]()
+- [X Seal](https://seal-example.vercel.app/ )
