@@ -27,4 +27,4 @@ This file will contain a mix of testnets for research.
 - [X Recall](https://boost.absinthe.network/recall/)
 - [X DoubleZero]()
 - [X Seal](https://seal-example.vercel.app/)
-- [X Minicoin](yujyuj)
+- [X Minicoin]()
