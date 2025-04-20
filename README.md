@@ -25,6 +25,6 @@ This file will contain a mix of testnets for research.
 - [X YALA](https://app-testnet-v3.yala.org/)
 - [X Beamable](https://hub.beamable.network/)
 - [X Recall](https://boost.absinthe.network/recall/)
-- [X DoubleZero]()
+- [X DoubleZero](аопотапр)
 - [X Seal](https://seal-example.vercel.app/)
 - [X Minicoin](https://minicoin.xyz/#guUCiz5M)
