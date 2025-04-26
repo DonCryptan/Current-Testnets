@@ -11,7 +11,7 @@ This file will contain a mix of testnets for research.
 - [X Singularity Finance](https://singularityfinance.ai/)
 - [X Abstract](https://www.abs.xyz/)
 - [X Linera]()
-- [X Malda]()
+- [X Malda](fdddddgd)
 - [X Union](https://dashboard.union.build/)
 - [X Cytonic](https://app.cytonic.com/)
 - [X Initia](https://app.testnet.initia.xyz/)
