@@ -11,3 +11,4 @@
 ## Sentient
 ## Chaos AI
 ## Yieldbasis
+## Aura
