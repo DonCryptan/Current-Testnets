@@ -20,8 +20,5 @@ This file will contain a mix of testnets for research.
 - [X DoubleZero]()
 - [X Seal](https://seal-example.vercel.app/)
 - [X Minicoin](https://minicoin.xyz/#guUCiz5M)
-- [X Drip](https://drip.haus/)
-- [X Irys](https://irysarcade.xyz/games)
-- [X Mintforest](https://www.mintforest.io/)
-- [парпитритпр]()
-- []()
+
+
