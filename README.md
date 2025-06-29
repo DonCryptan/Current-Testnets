@@ -21,8 +21,7 @@ This file will contain a mix of testnets for research.
 - [X Seal](https://seal-example.vercel.app/)
 - [X Minicoin](https://minicoin.xyz/#guUCiz5M)
 - [X Common](https://common.xyz/)
-- []
-- []
+
   
 
 
