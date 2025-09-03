@@ -23,7 +23,17 @@
 ## getoro
 ## Zarklab 
 ## Codex 
-##
+## hopnetwork
+## common
+## Fleek
+## Ping
+## Aztec Network  
+## Nous Research
+## naorisprotocol
+## solana
+## Trex
+## Jupiter
+## Rialo
 
 
 
