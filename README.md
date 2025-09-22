@@ -21,11 +21,11 @@ This file will contain a mix of testnets for research.
 - [X Seal](https://seal-example.vercel.app/)
 - [X Minicoin](https://minicoin.xyz/#guUCiz5M)
 - [X Common](https://common.xyz/)
-- [X op_net] ()
-- [X Camp] ()
-- [X Mawari] ()
-- [X Jiritsu] ()
-- [X Espresso] ()
+- [X op_net](https://opnet.org/points?r=tFdFcW)
+- [X Camp](https://testnet.campnetwork.xyz/)
+- [X Mawari]()
+- [X Jiritsu]()
+- [X Espresso]()
 
 
   
