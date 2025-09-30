@@ -23,7 +23,7 @@ This file will contain a mix of testnets for research.
 - [X Common](https://common.xyz/)
 - [X op_net](https://opnet.org/points?r=tFdFcW)
 - [X Camp](https://testnet.campnetwork.xyz/)
-- [X Mawari]()
+- [X Mawari](ghfhf)
 - [X Jiritsu]()
 - [X Espresso]()
 
