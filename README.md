@@ -25,7 +25,7 @@ This file will contain a mix of testnets for research.
 - [X Camp](https://testnet.campnetwork.xyz/)
 - [X Mawari](ghfhf)
 - [X Jiritsu]()
-- [X Espresso]()
+- [X Espresso](cvb)
 
 
   
