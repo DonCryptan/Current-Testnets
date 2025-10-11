@@ -23,9 +23,9 @@ This file will contain a mix of testnets for research.
 - [X Common](https://common.xyz/)
 - [X op_net](https://opnet.org/points?r=tFdFcW)
 - [X Camp](https://testnet.campnetwork.xyz/)
-- [X Mawari](ghfhf)
-- [X Jiritsu]()
-- [X Espresso](cvb)
+- [X Mawari](https://app.galxe.com/quest/Mawari/GCChUt14nt)
+- [X Jiritsu](https://app.galxe.com/quest/4XAnPcJBcoJ95m5XVWJTfs/GCpNFt1s1s)
+- [X Espresso](https://app.layer3.xyz/activations/intro-to-espresso)
 
 
   
