@@ -26,6 +26,7 @@ This file will contain a mix of testnets for research.
 - [X Mawari](https://app.galxe.com/quest/Mawari/GCChUt14nt)
 - [X Jiritsu](https://app.galxe.com/quest/4XAnPcJBcoJ95m5XVWJTfs/GCpNFt1s1s)
 - [X Espresso](https://app.layer3.xyz/activations/intro-to-espresso)
+- [X Pharos](https://testnet.pharosnetwork.xyz/)
 
 
   
