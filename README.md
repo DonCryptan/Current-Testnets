@@ -27,6 +27,9 @@ This file will contain a mix of testnets for research.
 - [X Jiritsu](https://app.galxe.com/quest/4XAnPcJBcoJ95m5XVWJTfs/GCpNFt1s1s)
 - [X Espresso](https://app.layer3.xyz/activations/intro-to-espresso)
 - [X Pharos](https://testnet.pharosnetwork.xyz/)
+- [X Arcium](https://demos.arcium.com/dark-pool)
+- [X Hedra](https://www.hedra.com/sign-up)
+- [X Getoro](https://app.getoro.xyz/history)
 
 
   
