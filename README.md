@@ -30,6 +30,8 @@ This file will contain a mix of testnets for research.
 - [X Arcium](https://demos.arcium.com/dark-pool)
 - [X Hedra](https://www.hedra.com/sign-up)
 - [X Getoro](https://app.getoro.xyz/history)
+- []()
+- []()
 
 
   
