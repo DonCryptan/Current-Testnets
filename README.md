@@ -31,7 +31,7 @@ This file will contain a mix of testnets for research.
 - [X Hedra](https://www.hedra.com/sign-up)
 - [X Getoro](https://app.getoro.xyz/history)
 - [X Ronin](https://wallet.roninchain.com/)
-- []()
+- [X Fantasy](https://fantasy.top/play/free)
 
 
   
