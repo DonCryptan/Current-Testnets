@@ -33,7 +33,7 @@ This file will contain a mix of testnets for research.
 - [X Ronin](https://wallet.roninchain.com/)
 - [X Fantasy](https://fantasy.top/play/free)
 - [X]()
-- [X]()
+
 
 
   
