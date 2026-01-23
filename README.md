@@ -34,6 +34,8 @@ This file will contain a mix of testnets for research.
 - [X Fantasy](https://fantasy.top/play/free)
 - [X Fhenix](https://test.redact.money/)
 - [X Trex](https://trex.xyz/invite?code=3NZ1YH8M&type=portal)
+- []()
+- []()
 
 
 
