@@ -36,6 +36,7 @@ This file will contain a mix of testnets for research.
 - [X Trex](https://trex.xyz/invite?code=3NZ1YH8M&type=portal)
 - []()
 - []()
+- []()
 
 
 
