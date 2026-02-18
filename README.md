@@ -35,8 +35,7 @@ This file will contain a mix of testnets for research.
 - [X Fhenix](https://test.redact.money/)
 - [X Trex](https://trex.xyz/invite?code=3NZ1YH8M&type=portal)
 - []()
-- []()
-
+  
 
 
 
